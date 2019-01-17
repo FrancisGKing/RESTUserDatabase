@@ -1,0 +1,1 @@
+This is a single page web app that displays the information of users, and allows for the addition and deletion of users. I created this project for additional practice with Javascript, Node.js, Express, MongoDB, and Jade, as well as to gain more experience creating REST-ful web apps. I created this project using this tutorial from Closebrace.
